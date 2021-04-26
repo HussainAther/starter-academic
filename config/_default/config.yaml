@@ -1,11 +1,13 @@
-# Configuration of Hugo
+# Syed Hussain Ather
+# PhD Student in Medical Science
+# University of Toronto 
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Syed Hussain Ather # Website name
+baseurl: 'http://hussainather.com/' # Website URL
+copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
