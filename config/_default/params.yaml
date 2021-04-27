@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: researcher
 day_night: true
 font: ''
 font_size: L
@@ -41,11 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://twitter.com/SHussainAther'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
@@ -108,7 +104,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
